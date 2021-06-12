@@ -31,7 +31,7 @@ The maximum value that the integer or number can be
 ### Auto Advance
 A setting that will advance to next field after completion of specified field.
 ### Prefix Label
-A Label that is positioned behind of the specified field
+A label that is positioned behind of the specified field
 ### Suffix Label
 A label that is position in front of the specified field
 ### Use Input Mask
