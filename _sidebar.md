@@ -20,6 +20,28 @@
 
 - [Select Dropdown](/definition/select-dropdown.md)
 
+- [Multi-Select Dropdown](/definition/multi-select-dropdown.md)
+
+- [Date](/definition/date.md)
+
+- [Date/Time](/definition/date-time.md)
+
+- [File](/definition/file.md)
+
+- [Phone](/definition/phone.md)
+
+- [Form Repeater](/definition/form-repeater.md)
+
+- [Signature](/definition/signature.md)
+
+- [Geolocation](/definition/geolocation.md)
+
+- [Linked Clone](/definition/linked-clone.md)
+
+- [Button](/definition/button.md)
+
+- [Color Picker](/definition/color-picker.md)
+
 # Layout
 
 # Rules
