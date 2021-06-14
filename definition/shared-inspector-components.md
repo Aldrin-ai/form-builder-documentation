@@ -15,4 +15,4 @@ The value that will be used if field is not filled in.
 ### Disabled
 Users cannot use specified field, unless a rule dictates otherwise.
 ### Auto Clear Value Policy
-?
+When specified field is changed by a rule that hides or disables, the field will be cleared, depending on the policy.

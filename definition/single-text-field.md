@@ -21,7 +21,7 @@ Minimum amount letters that the string can contain
 ##### Maximum Characters
 Maximum amount of letters that the string can contain 
 ##### Pattern
-A format that the field can establish, for example phone numbers (111)-111-1111.
+A pre-set format that the field can establish, for example phone numbers (111)-111-1111.
 #### Number
 A specific primitive type that can be any number whether whole or decimal, in which math calculations may be done with.
 #### Integer
@@ -37,4 +37,4 @@ A label that is positioned behind of the specified field
 ### Suffix Label
 A label that is position in front of the specified field
 ### Use Input Mask
-
+Enables for different 

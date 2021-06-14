@@ -13,8 +13,8 @@ A set of text that is used as a placeholder if text is not written
 ### Auto Advance
 A setting that will advance to next field after completion of specified field.
 
-
 ### Use Input Mask
+When checked, an text area will show, in which you will create an input mask, a specified format for text, for the phone field. 
 
 ### Custom Error Messages
 Give a unique message when a field has come across a certain error

@@ -5,11 +5,10 @@
 Enables or disables form calculator inside field
 ### Calculated value
 Using the form calculator, the value of the will be set to the output of the form calculator.
-
 ### Display Map
 Turns on the map for the user to see
 ### Show Map Inline
-
+If box is checked the map will show on top of the box field instead as a button on the lower half of the field.
 ### Initial Map Zoom Level
 Sets the zoom on the map to a certain level
 ### Use Current Location Text
