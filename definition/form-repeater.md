@@ -12,13 +12,13 @@ Show the number of items inside of the form along side the field label
 ### Form Title Fields
 
 ### Form Title 
-
+The title of the form being used.
 ### Default Form Title
 
 ### Add Item Button Label
-
+The label for the button that will add items
 ### Remove Item Button Label
-
+The label for the button that will remove items.
 ### Hide Add Button
 The user will not be able use or see the Add button
 ### Hide Remove Button

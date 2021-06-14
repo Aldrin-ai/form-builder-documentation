@@ -14,7 +14,11 @@ Use an external Data source to use with field
 A value set if user does not insert text into field.
 
 ### Use Calculated Value
+Enables or disables form calculator inside field
+### Calculated value
+Using the form calculator, the value of the will be set to the output of the form calculator.
 
 ### Numeric Value
 
 ### Options
+This is where the different options for specified field can be added.
