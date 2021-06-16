@@ -12,22 +12,24 @@ Using the form calculator, the value of the field will be set to the output of t
 A set of text that is used as a placeholder if text is not written.
 ### Primitive Type
 A data type that reads a specific type of data, EX: String, Integer, Number. Each type has different way to store text and numbers.
-#### String
+- #### String
 A data type to store text, words, letters or numbers, but it cannot do math calculations.
-##### Minimum Characters
-Minimum amount characters that the string can contain.
-##### Maximum Characters
-Maximum amount of characters that the string can contain. 
-##### Pattern
-A pre-set format that the field can establish, for example phone numbers (111)-111-1111.
-#### Number
-A specific primitive type that can be any positive number whether whole or decimal, in which mathematical calculations can be done.
-#### Integer
-A specific primitive type that can only be a whole number that is positive, this data type can do mathematical operations.
-##### Min Value
-The minimum value that the Integer or Number can be.
-##### Max Value
-The maximum value that the integer or number can be
+	- ##### Minimum Characters
+		Minimum amount letters that the string can contain
+	- ##### Maximum Characters
+		Maximum amount of letters that the string can contain 
+	- ##### Pattern
+		A format that the field can establish, for example phone numbers (111)-111-1111.
+		
+- #### Number
+A specific primitive type that can be any number whether whole or decimal, in which math calculations may be done with.
+- #### Integer
+A specific primitive type that can only be a whole number that is positive, 
+	- ##### Min Value
+	The minimum value that the Integer or Number can be.
+	- ##### Max Value
+	The maximum value that the integer or number can be
+[//]: # (Hello)
 ### Auto Advance
 A setting that will advance to next field after completion of specified field.
 ### Prefix Label

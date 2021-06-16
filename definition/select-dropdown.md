@@ -3,7 +3,7 @@
 ### Selection Call To Action
 Text that explains user what they are searching for
 ### Enable Search
-Option enables searching through the dropdown.
+Option enables a search box to search through the dropdown.
 ### Allow Deselect
 When checked the field may be deselected by the user.
 ### Auto Advance
