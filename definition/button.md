@@ -7,7 +7,7 @@ The title or name of specified field.
 Field is not shown to users, unless a rule dictates otherwise.
 
 ### Disabled
-Users cannot use specified field, unless a rule dictates otherwise.
+When checked, users cannot use specified field, unless a rule dictates otherwise.
 
 ### Button Text
 Text that is shown inside of the button. This will also accept HTML.

@@ -1,8 +1,8 @@
 # Phone
+A text field specifically for Phone numbers
 [shared fields](/shared-inspector-components.md ':include')
 ### Default Value
 A value set if user does not insert text into field.
-
 ### Use Calculated Value
 Enables or disables form calculator inside field
 ### Calculated value
