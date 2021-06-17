@@ -9,3 +9,4 @@ The title or name of the specified field.
 ### Help
 Text for the user to understand what the field is for, this text will apear below the field.
 ### Info
+Text that is hidden to users, until icon next to label is hovered over.
