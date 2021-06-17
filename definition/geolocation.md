@@ -1,6 +1,5 @@
 # Geolocation
 [shared fields](/shared-inspector-components.md ':include')
-
 ### Use Calculated Value
 Enables or disables form calculator inside field
 ### Calculated value
@@ -33,3 +32,15 @@ Setting and changing the label for the address text area .
 Changes the format in which the states are formated on the dropdown inside the field.
 ### Custom Error Messages
 Give a unique message when a field has come across a certain error
+- #### Required Error
+	Error is thrown when the field is not completed and it is required to complete
+- #### Type Error
+	Error is thrown when the data type in the field is not correct.
+- #### Min Items Error
+	Error is thrown when the list does not meet the minimum item requirement
+- #### Max Items Error
+	Error is thrown when the list does not meet the maximum item requirement
+- #### Message
+	The text that will be seen by the user when the error is thrown.
+
+

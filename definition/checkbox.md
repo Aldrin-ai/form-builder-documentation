@@ -8,6 +8,7 @@ Give a unique message when a field has come across a certain error
 	Error is thrown when the data type in the field is not correct.
 - #### Message
 	The text that will be seen by the user when the error is thrown.
+
 ### Default Value
 A value set if user does not insert text into field.
 ### Auto Advance

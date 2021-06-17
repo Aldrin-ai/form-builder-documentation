@@ -18,3 +18,15 @@ When checked, an text area will show, in which you will create an input mask, a 
 
 ### Custom Error Messages
 Give a unique message when a field has come across a certain error
+- #### Required Error
+	Error is thrown when the field is not completed and it is required to complete
+- #### Type Error
+	Error is thrown when the data type in the field is not correct.
+- #### Pattern Error
+	Error is thrown when the user text does not follow the pattern set for the field.
+- #### Min Length Error
+	Error is thrown when the text does not meet the minimum length requirement
+- #### Max Length Error
+	Error is thrown when the text does not meet the maximum length requirement
+- #### Message
+	The text that will be seen by the user when the error is thrown.

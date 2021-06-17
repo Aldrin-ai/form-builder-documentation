@@ -12,6 +12,7 @@ Give a unique message when a field has come across a certain error
 	Error is thrown when the list does not meet the maximum item requirement
 - #### Message
 	The text that will be seen by the user when the error is thrown.
+
 ### Subform
 The form that will be used for the form repeater.
 ### Show Count
@@ -40,6 +41,12 @@ The minimum amount of items that the subform have
 The maximum amount of items that the subform have.
 ### View Mode
 Sets different ways to view the subform
+- #### Default
+
+- #### Compact
+
+- #### Table
+
 ### Sort Descending
 The instances are sorted in descending order by dates unless the sort by filter is in place.
 ### Sort By
@@ -48,3 +55,5 @@ Select a field in which the list of forms will be sorted by.
 Select a field and the value in which the forms will be filtered by.
 ### Limit Items
 This property limits the amount of forms that may be created inside the repeater.
+### Auto Open New Instances
+When checked each new form automacally opens a compact version of the form.
