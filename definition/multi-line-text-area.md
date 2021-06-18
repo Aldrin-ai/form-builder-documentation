@@ -29,7 +29,7 @@ A specific primitive type that can only be a whole number that is positive,
 	The minimum value that the Integer or Number can be.
 	- ##### Max Value
 	The maximum value that the integer or number can be
-[//]: # (Hello)
+[//]: # (space)
 ### Rows
 The number of lines by row for text area.
 ### Auto Advance

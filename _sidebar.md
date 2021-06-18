@@ -1,6 +1,9 @@
 # [Home](/)
 
 # Metadata
+- [Basic Info](/metadata/basic-info.md)
+
+- [Tags](/metadata/tags.md)
 
 # Definition
 

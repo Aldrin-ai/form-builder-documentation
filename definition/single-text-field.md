@@ -1,7 +1,18 @@
 # Single line text
 [shared fields](/shared-inspector-components.md ':include')
 ### Custom Error Messages
-Give a unique message when a field has come across a certain error.
+Give a unique message when a field has come across a certain error
+- #### Required Error
+	Error is thrown when the field is not completed and it is required to complete
+- #### Type Error
+	Error is thrown when the data type in the field is not correct.
+- #### Minimum Error
+	Error is thrown when the text does not meet the minimum length requirement
+- #### Maximum Error
+	Error is thrown when the text does not meet the maximum length requirement
+- #### Message
+	The text that will be seen by the user when the error is thrown.
+
 ### Default Value
 A value set if user does not insert text into field.
 ### Use Calculated Value
@@ -28,7 +39,7 @@ A specific primitive type that can only be a whole number that is positive,
 	- ##### Min Value
 	The minimum value that the Integer or Number can be.
 	- ##### Max Value
-	The maximum value that the integer or number can be
+	The maximum value that the Integer or Number can be
 [//]: # (Hello)
 ### Auto Advance
 A setting that will advance to next field after completion of specified field.
