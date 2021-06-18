@@ -19,4 +19,4 @@ Text that is under the field to help explain the field more throughly
 Text that is hidden to users, until icon next to label is hovered over.
 
 ### Show in Report
-Button will be shown inside of the Report
+Button will be shown inside of the report
