@@ -12,9 +12,6 @@ Give a unique message when a field has come across a certain error
 	Error is thrown when the text does not meet the maximum length requirement
 - #### Message
 	The text that will be seen by the user when the error is thrown.
-
-### Default Value
-A value set if user does not insert text into field.
 ### Use Calculated Value
 Enables or disables form calculator to be used inside the field.
 ### Calculated value
