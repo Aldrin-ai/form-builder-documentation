@@ -1,50 +1,42 @@
-### Custom Error Messages
-Give a unique message when a field has come across a certain error
-- #### Required Error
-	Error is thrown when the field is not completed and it is required to complete
-- #### Type Error
-	Error is thrown when the data type in the field is not correct.
-- #### Min Items Error
-	Error is thrown when the list does not meet the minimum item requirement
-- #### Max Items Error
-	Error is thrown when the list does not meet the maximum item requirement
-- #### Message
-	The text that will be seen by the user when the error is thrown.
-### Use A Data Source
-When checked an external Data Source will be used for the field.
-- #### Data Source
-	The Data Source that will be used for the field.
-- #### Data Source Value Column
-	The value in which the list will be organized in.
-- #### Data Source Name Column
-	The name that will be shown to the user.
-- #### Data Source Groups Enabled
-	Enables the list to split its items by in groups.
-- #### Data Source Groups Column
-	The category in which the names will be grouped by.
-- #### Data Source Filter Column
-	The column of the data source to which the filter value should be evaluated.
-- #### Show The Value With The Name
-	When checked the value will be seen next to the name of the item.
-	
-### Show Only Unique Values
-The field only lists the options that have distinct values/keys.
-### Restrict Items
-Disable an item with a certain display name.
-### Restrict Items Hidden
-The items that are restricted are hidden instead 
-### Restrict Items Inverted
-Instead of disabling the restricted items, the restricted items becomes enabled and the rest of the items are disabled.
-### Default Value
-A value set if user does not insert anything into field.
+[custom error](/properties/fieldModel/custom-error/custom-error-message.md ':include')
 
-### Use Calculated Value
-Enables or disables form calculator inside field
-### Calculated Value
-Using the form calculator, the value of the will be set to the output of the form calculator.
+[Type Error](/properties/fieldModel/custom-error/errors/type-error.md ':include')
 
-### Numeric Value
-Forces the Key/Value of the items to be numbers
+[Min items Error](/properties/fieldModel/custom-error/errors/min-items-error.md ':include')
+
+[Message](/properties/fieldModel/custom-error/message.md ':include')
+
+
+[Use data source](/properties/fieldModelDataOptions/use-data-source.md ':include')
+
+[Data Source](/properties/fieldModelDataOptions/data-remote-data-input.md ':include')
+
+[Data Source Value Column](/properties/fieldModelDataOptions/ds-value-column.md ':include')
+
+[Data Source Name Column](/properties/fieldModelDataOptions/ds-name-column.md ':include')
+
+[Data Source Groups Enabled](/properties/fieldModelDataOptions/ds-groups-enabled.md ':include')
+
+[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column ':include')
+
+[Data Source Filter Column](/properties/fieldModelDataOptions/ds-filter-column.md ':include')
+
+[Show Value Name](/properties/fieldModelDataOptions/show-value-name.md ':include')
+
+[Show Only Unique Values](/properties/fieldModelDataOptions/unique-value.md ':include')
+
+[Restrict Items](/properties/fieldModelDataOptions/restrict-items.md ':include')
+
+[Restrict Items Hidden](/properties/fieldModelDataOptions/restrict-items-hidden.md ':include')
+
+[Restrict Items Inverted](/properties/fieldModelDataOptions/restrict-items-inverted.md ':include')
+
+[Default Value](/properties/fieldModel/default-value.md ':include')
+
+[Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
+
+[Restrict Items Inverted](/properties/fieldModelDataOptions/numeric-value.md ':include')
+
 ### Options
 This is where the different options for specified field can be added.
 - #### Display Name
