@@ -1,14 +1,22 @@
 # Signature
 [shared fields](/shared-inspector-components.md ':include')
-### Use Calculated Value
-Enables or disables form calculator inside field
-### Calculated value
-Using the form calculator, the value of the will be set to the output of the form calculator.
 
-### Clear Button Label
-The name of the clear button label.
+[Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
 
-### Auto Save Disabled
-Turn off the auto save feature.
-### Custom Error Messages
-Give a unique message when a field has come across a certain error
+[Clear Button Label](/properties/fieldModel/fieldModelSignature/clear-button.md ':include')
+
+[custom error](/properties/fieldModel/custom-error/custom-error-message.md ':include')
+
+[Type Error](/properties/fieldModel/custom-error/errors/type-error.md ':include')
+
+[Required Error](/properties/fieldModel/custom-error/errors/required-error.md ':include')
+
+[Pattern Error](/properties/fieldModel/custom-error/errors/pattern-error.md ':include')
+
+[Min Length Error](/properties/fieldModel/custom-error/errors/min-length-error.md ':include')
+
+[Max Length Error](/properties/fieldModel/custom-error/errors/max-length-error.md ':include')
+
+[Message](/properties/fieldModel/custom-error/message.md ':include')
+
+
