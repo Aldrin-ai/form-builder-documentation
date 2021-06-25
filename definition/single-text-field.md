@@ -14,8 +14,6 @@
 
 [Message](/properties/fieldModel/custom-error/message.md ':include')
 
-[Default Value](/properties/fieldModel/default-value.md ':include')
-
 [Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
 
 [Placeholder](/properties/fieldModelInput/placeholder.md ':include')

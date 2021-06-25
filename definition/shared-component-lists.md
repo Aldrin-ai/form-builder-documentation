@@ -1,11 +1,15 @@
 [custom error](/properties/fieldModel/custom-error/custom-error-message.md ':include')
 
+[Required Error](/properties/fieldModel/custom-error/errors/required-error.md ':include')
+
+
 [Type Error](/properties/fieldModel/custom-error/errors/type-error.md ':include')
+
+[Max items Error](/properties/fieldModel/custom-error/errors/max-items-error.md ':include')
 
 [Min items Error](/properties/fieldModel/custom-error/errors/min-items-error.md ':include')
 
 [Message](/properties/fieldModel/custom-error/message.md ':include')
-
 
 [Use data source](/properties/fieldModelDataOptions/use-data-source.md ':include')
 
@@ -37,9 +41,8 @@
 
 [Restrict Items Inverted](/properties/fieldModelDataOptions/numeric-value.md ':include')
 
-### Options
-This is where the different options for specified field can be added.
-- #### Display Name
-	The name that will be shown to the user.
-- #### Key/Value
-	The identification name for the form builder.
+[Options](/properties/fieldModelDataOptions/options.md ':include')
+
+[Display Name](/properties/fieldModelDataOptions/options/display-name.md ':include')
+
+[Key/Value](/properties/fieldModelDataOptions/options/key-value.md ':include')

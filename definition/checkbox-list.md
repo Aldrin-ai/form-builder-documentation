@@ -2,7 +2,6 @@
 [shared fields](/shared-inspector-components.md ':include')
 [shared fields for lists](/shared-component-lists.md ':include')
 
-### Min Items
-The minimum amount of checkboxes that can be selected in the field.
-### Max Items
-The maximum amount of checkboxes that can be selected in the field.
+[Min Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/min-items.md ':include')
+
+[Max Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/max-items.md ':include')

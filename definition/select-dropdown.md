@@ -1,10 +1,10 @@
 # Select Dropdown
 [shared fields](/shared-inspector-components.md ':include')
-### Selection Call To Action
-Text that explains user what they are searching for
-### Enable Search
-Option enables a search box to search through the dropdown.
-### Allow Deselect
-When checked the field may be deselected by the user.
-### Auto Advance
-A setting that will advance to next field after completion of specified field.
+
+[Call to Action](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/call-to-action.md ':include')
+
+[Enable Search](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/enable-search.md ':include')
+
+[Can Deslect](/properties/fieldModelDataOptions/fieldModelSelect/allow-deselect.md ':include')
+
+[Auto Advance](/properties/fieldModel/auto-advance.md ':include')

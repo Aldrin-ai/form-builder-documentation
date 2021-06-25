@@ -3,7 +3,6 @@
 
 [shared fields for lists](/shared-component-lists.md ':include')
 
-### Can Deselect
-When enabled an item that has been selected is able to be deselected.
-### Auto Advance
-A setting that will advance to next field after completion of specified field.
+[Can Deslect](/properties/fieldModelDataOptions/fieldModelSelect/allow-deselect.md ':include')
+
+[Auto Advance](/properties/fieldModel/auto-advance.md ':include')

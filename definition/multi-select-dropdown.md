@@ -1,13 +1,12 @@
 # Multi-Select Dropdown
 [shared fields](/shared-inspector-components.md ':include')
 [shared list fields](/shared-component-lists.md ':include')
-### Selection Call To Action
-Text inside of the searchbar that explains user what they are searching for
-### Enable Search
-Option enables searching through the dropdown.
-### Search Text Label
-The text that will be shown when searching for options in the dropdown.
-### Min Items
-Minimum amount of dropdown items.
-### Max Items
-Maximum amount of dropdown items.
+[Call to Action](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/call-to-action.md ':include')
+
+[Enable Search](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/enable-search.md ':include')
+
+[Search bar Text](/properties/fieldModelDataOptions/fieldModelSelect/search-bar-text.md ':include')
+
+[Min Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/min-items.md ':include')
+
+[Max Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/max-items.md ':include')
