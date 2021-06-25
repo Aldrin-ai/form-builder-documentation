@@ -1,12 +1,11 @@
 # Linked Clone
+[Target field](/properties/fieldModel/fieldModelClone/target-field.md ':include')
 
-### Target Field
-The field in which the linked clone will copy the information and display it in the field.
-### Hide in Report
-When checked, the report of the form will not show the linked clone information.
-### Label
-The title or name of the specified field.
-### Help
-Text for the user to understand what the field is for, this text will apear below the field.
-### Info
-Text that is hidden to users, until icon next to label is hovered over.
+[Hide in report](/properties/fieldModel/fieldModelClone/hide-in-report.md ':include')
+
+[Label](/properties/fieldModel/label.md ':include')
+
+[Help](/properties/fieldModel/help.md ':include')
+
+[Info](/properties/fieldModel/additional-info.md ':include')
+

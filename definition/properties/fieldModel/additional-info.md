@@ -1,2 +1,2 @@
-### Additional Info
+### Additional Info/Info
 Text that is hidden to users, until icon next to label is hovered over.
