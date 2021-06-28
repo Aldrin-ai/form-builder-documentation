@@ -21,7 +21,6 @@
 
 [Required Error](/properties/fieldModel/custom-error/errors/required-error.md ':include')
 
-
 [Type Error](/properties/fieldModel/custom-error/errors/type-error.md ':include')
 
 [Max items Error](/properties/fieldModel/custom-error/errors/max-items-error.md ':include')
@@ -40,7 +39,7 @@
 
 [Data Source Groups Enabled](/properties/fieldModelDataOptions/ds-groups-enabled.md ':include')
 
-[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column ':include')
+[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column.md ':include')
 
 [Data Source Filter Column](/properties/fieldModelDataOptions/ds-filter-column.md ':include')
 
@@ -65,7 +64,6 @@
 [Display Name](/properties/fieldModelDataOptions/options/display-name.md ':include')
 
 [Key/Value](/properties/fieldModelDataOptions/options/key-value.md ':include')
-
 
 [Min Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/min-items.md ':include')
 

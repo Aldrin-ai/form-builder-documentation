@@ -40,7 +40,7 @@
 
 [Data Source Groups Enabled](/properties/fieldModelDataOptions/ds-groups-enabled.md ':include')
 
-[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column ':include')
+[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column.md ':include')
 
 [Data Source Filter Column](/properties/fieldModelDataOptions/ds-filter-column.md ':include')
 

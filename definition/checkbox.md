@@ -26,8 +26,6 @@
 
 [Message](/properties/fieldModel/custom-error/message.md ':include')
 
-[Default Value](/properties/fieldModel/default-value.md ':include')
-
 [Auto Advance](/properties/fieldModel/auto-advance.md ':include')
 
 [Off Label](/properties/fieldModel/fieldModelCheckbox/off-label.md ':include')
