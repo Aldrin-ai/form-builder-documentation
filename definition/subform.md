@@ -1,10 +1,10 @@
 # Subform
 
-### Label
-The title or name of specified field. __NOTE__: The label will only be a reference, it will not be seen in the rendered form.
+[label](definition/properties/fieldModel/label.md ':include') 
+ __NOTE__: The label will only be a reference, it will not be seen in the rendered form.
 
-### Hidden
-Field is not shown to users, unless a rule dictates otherwise.
+[hidden](definition/properties/fieldModel/hidden.md ':include')
 
-### Subform
-The form that will be used and filled out.
+
+[Subform](definition/properties/fieldModel/fieldModelForm/form-version.md ':include')
+

@@ -1,11 +1,27 @@
 # Color Picker
-[shared fields](/shared-inspector-components.md ':include')
-### Default Value
-A value set if user does not insert text into field.
-### Use Calculated Value
-Enables or disables form calculator inside field
-### Calculated value
-Using the form calculator, the value of the will be set to the output of the form calculator.
-### Auto Advance
-A setting that will advance to next field after completion of specified field.
+[label](definition/properties/fieldModel/label.md ':include')
+
+[required](definition/properties/fieldModel/required.md ':include')
+
+[hidden](definition/properties/fieldModel/hidden.md ':include')
+
+[help](definition/properties/fieldModel/help.md ':include')
+
+[additional info](definition/properties/fieldModel/additional-info.md ':include')
+
+[Is PII Field](definition/properties/fieldModel/is-pii-field.md ':include')
+
+[default value](definition/properties/fieldModel/default-value.md ':include')
+
+[disabled](definition/properties/fieldModel/disabled.md ':include')
+
+[auto clear value policy](definition/properties/fieldModel/clear-policy.md ':include')
+
+[default value](definition/properties/fieldModel/default-value.md ':include')
+
+
+[Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
+
+[Auto Advance](/properties/fieldModel/auto-advance.md ':include')
+
 

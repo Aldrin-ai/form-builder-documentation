@@ -1,22 +1,18 @@
 # Button
 
-### Label
-The title or name of specified field.
+[label](/properties/fieldModel/label.md ':include')
 
-### Hidden
-Field is not shown to users, unless a rule dictates otherwise.
+[hidden](/properties/fieldModel/hidden.md ':include')
 
-### Disabled
-When checked, users cannot use specified field, unless a rule dictates otherwise.
+[disabled](/properties/fieldModel/disabled.md ':include')
 
-### Button Text
-Text that is shown inside of the button. This will also accept HTML.
+[Button Text](properties/fieldModel/fieldModelButton/property-text.md ':include')
 
-### Helper Text
-Text that is under the field to help explain the field more throughly
+[Helper Text](properties/fieldModel/help.md ':include')
 
-### Additional Info
-Text that is hidden to users, until icon next to label is hovered over.
 
-### Show in Report
-Button will be shown inside of the report
+[additional info](/properties/fieldModel/additional-info.md ':include')
+
+
+[Word](properties/fieldModel/show-in-report.md ':include')
+
