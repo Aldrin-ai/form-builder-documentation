@@ -1,36 +1,53 @@
 # File
-[shared fields](/shared-inspector-components.md ':include')
-### Custom Error Messages
-Give a unique message when a field has come across a certain error
-- #### Required Error
-	Error is thrown when the field is not completed and it is required to complete
-- #### Type Error
-	Error is thrown when the data type in the field is not correct.
-- #### Min Items Error
-	Error is thrown when the list does not meet the minimum item requirement
-- #### Max Items Error
-	Error is thrown when the list does not meet the maximum item requirement
-- #### Message
-	The text that will be seen by the user when the error is thrown.
-### Call To Action
-A set of text that prompts the user to upload a specific file.
-### File Type
-The type of file that will be used for 
-### Font Awesome Icon
-Change the Icon with the name of the HTML class of Font Awesome Icon.
-### Number Of Files
-Number of files that can be uploaded.
-### Attachment Group Id Name
-The name of the folder in which the uploaded files will be sent to.
-### Show Details
-When property is checked, the user will be able to create a description of the file uploaded.
-### Read Only
-When on the value is only label to be set by a rule or calculation
-### Sort Descending
-Sort the files newest to oldest
-### Use Calculated Value
-Enables or disables form calculator inside field
-### Calculated value
-Using the form calculator, the value of the will be set to the output of the form calculator.
-### Auto Advance
-A setting that will advance to next field after completion of specified field.
+[label](/properties/fieldModel/label.md ':include')
+
+[required](/properties/fieldModel/required.md ':include')
+
+[hidden](/properties/fieldModel/hidden.md ':include')
+
+[help](/properties/fieldModel/help.md ':include')
+
+[additional info](/properties/fieldModel/additional-info.md ':include')
+
+[Is PII Field](/properties/fieldModel/is-pii-field.md ':include')
+
+[default value](/properties/fieldModel/default-value.md ':include')
+
+[disabled](/properties/fieldModel/disabled.md ':include')
+
+[auto clear value policy](/properties/fieldModel/clear-policy.md ':include')
+
+
+[custom error](/properties/fieldModel/custom-error/custom-error-message.md ':include')
+
+[Required Error](/properties/fieldModel/custom-error/errors/required-error.md ':include')
+
+
+[Type Error](/properties/fieldModel/custom-error/errors/type-error.md ':include')
+
+[Max items Error](/properties/fieldModel/custom-error/errors/max-items-error.md ':include')
+
+[Min items Error](/properties/fieldModel/custom-error/errors/min-items-error.md ':include')
+
+[Message](/properties/fieldModel/custom-error/message.md ':include')
+
+[Call to Action](/properties/fieldModel/fieldModelFile/call-to-action.md ':include')
+
+[File Type](/properties/fieldModel/fieldModelFile/file-type.md ':include')
+
+[Font Awesome Icon](/properties/fieldModel/fieldModelFile/icon-class.md ':include')
+
+[Number Of Files](/properties/fieldModel/fieldModelFile/number-of-files.md ':include')
+
+[Attachment Group Id Name](/properties/fieldModel/fieldModelFile/file-group-id.md ':include')
+
+[Show Details](/properties/fieldModel/fieldModelFile/show-details.md ':include')
+
+[Read Only](/properties/fieldModel/fieldModelFile/read-only.md ':include')
+
+[Sort Descending](/properties/fieldModel/fieldModelFile/sort-descending.md ':include')
+
+[Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
+
+[Auto Advance](/properties/fieldModel/auto-advance.md ':include')
+
