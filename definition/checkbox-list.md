@@ -1,4 +1,5 @@
 # Checkbox List
+---
 [label](/properties/fieldModel/label.md ':include')
 
 [required](/properties/fieldModel/required.md ':include')
@@ -68,3 +69,5 @@
 [Min Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/min-items.md ':include')
 
 [Max Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/max-items.md ':include')
+
+---

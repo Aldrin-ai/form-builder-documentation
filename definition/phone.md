@@ -1,6 +1,8 @@
 # Phone
 A text field specifically for Phone numbers
 
+---
+
 [label](/properties/fieldModel/label.md ':include')
 
 [required](/properties/fieldModel/required.md ':include')
@@ -41,3 +43,4 @@ A text field specifically for Phone numbers
 
 [Message](/properties/fieldModel/custom-error/message.md ':include')
 
+---

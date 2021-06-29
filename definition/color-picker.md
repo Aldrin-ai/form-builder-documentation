@@ -1,4 +1,5 @@
 # Color Picker
+---
 [label](definition/properties/fieldModel/label.md ':include')
 
 [required](definition/properties/fieldModel/required.md ':include')
@@ -24,4 +25,4 @@
 
 [Auto Advance](/properties/fieldModel/auto-advance.md ':include')
 
-
+---
