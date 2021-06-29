@@ -1,4 +1,5 @@
 # Checkbox
+---
 [label](/properties/fieldModel/label.md ':include')
 
 [required](/properties/fieldModel/required.md ':include')
@@ -34,3 +35,4 @@
 
 [Calculated Value](/properties/fieldModel/use-calculated-value.md ':include')
 
+---

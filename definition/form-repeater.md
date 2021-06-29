@@ -1,4 +1,5 @@
 # Form Repeater
+---
 [label](/properties/fieldModel/label.md ':include')
 
 [required](/properties/fieldModel/required.md ':include')
@@ -67,3 +68,5 @@
 [Limit Items](/properties/fieldModel/fieldModelRepeater/limit-items.md ':include')
 
 [Auto Open New Instances](/properties/fieldModel/fieldModelRepeater/auto-open-new.md ':include')
+
+---

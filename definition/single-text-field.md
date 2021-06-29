@@ -1,5 +1,5 @@
 # Single line text
-
+---
 [label](/properties/fieldModel/label.md ':include')
 
 [required](/properties/fieldModel/required.md ':include')
@@ -49,3 +49,5 @@
 [Force Number Pad](/properties/fieldModelInput/force-num-pad.md ':include')
 
 [Input Mask](/properties/fieldModelInput/input-mask.md ':include')
+
+---
