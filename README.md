@@ -1,3 +1,3 @@
-# Headline
+# Aldrin Help Documentation 
 
-> An awesome project.
+> Proceed forward by using the side bar for specific property.
