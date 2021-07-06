@@ -1,2 +1,2 @@
 ### Max Items
-The maximum amount of checkboxes that can be selected in the field.
+The maximum amount of items that can be selected in the field.

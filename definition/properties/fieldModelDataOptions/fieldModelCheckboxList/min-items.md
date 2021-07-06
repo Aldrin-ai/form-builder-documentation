@@ -1,2 +1,2 @@
 ### Min Items
-The minimum amount of checkboxes that can be selected in the field.
+The minimum amount of items that can be selected in the field.
