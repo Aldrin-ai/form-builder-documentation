@@ -50,6 +50,6 @@
 * Rules
 
 * Calculations
-
+* * [Help](/calculations/calc-help)
 * Documents
 

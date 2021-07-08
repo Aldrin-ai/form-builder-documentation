@@ -1,5 +1,4 @@
 # Phone
-A text field specifically for Phone numbers
 
 ---
 
