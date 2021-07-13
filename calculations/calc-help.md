@@ -1,3 +1,28 @@
+<style>
+details.argClass > div {
+	margin-left: 15px;
+	font-size: 15px;
+	font-weight:lighter;
+}
+details.argClass > summary {
+	font-size: 18px;
+}
+
+details.formClass > summary {
+	font-size: 18px;
+}
+details.formClass > details {
+	margin-left: 15px;
+}
+details.formClass > details > div {
+	margin-left: 15px;
+	font-weight: lighter;
+}
+details.formClass > details > summary {
+	font-size: 15px;
+}
+</style>
+
 # Calculations
 
 #### Clone Calculation
@@ -7,28 +32,28 @@ Deletes the calculation currently in use.
 ### Argument
 A variable or section that will be used for the whole calculation.
 
-<details>
+<details class=argClass>
 	<summary>Field Property</summary>
 	<div>Uses properties as values from the fields inside of the form.</div>
-</details>
+</details class=argClass>
 
-<details>
+<details class=argClass>
 	<summary>User Value</summary>
 	<div>A specific value that is set by the user creating the form. (If value is a number, the value will be recognized as a number)</div>
 </details>
 
-<details>
+<details class=argClass>
 	<summary>Data Source Value</summary>
 	<div>Uses a Data Source to find a value for the argument</div>
 </details>
 
-<details>
+<details class=argClass>
 	<summary>Global Value</summary>
 	<!-- TODO: Go more indepth with this option -->
 	<div>Values that are used outside of properties and fields</div>
 </details>
 
-<details>
+<details class=argClass>
 	<summary>Calculation</summary>
 	<div>Uses the value from another calculation</div>
 </details>
@@ -43,22 +68,25 @@ before the whole calculation will be done.
 Predefined formulas that can be used to add to the calculation
 
  
-#### Conditional 
-
-
+<details class=formClass> 
+<summary> Conditional </summary>
 <details>
 	<summary>If</summary>
 	<div>This Formula has the ability to change the returned value depending if the value in the <b>if</b> block is true or false. If the value is true the true block will execute, otherwise the false block will execute.</div>
 </details>
+</details>
 
-#### String
+<details class=formClass> 
+<summary> String </summary> 
 
 <details>
 	<summary>String Length</summary>
-	<div>Returns the length of word that is inside of the String Length block</div>>
+	<div>Returns the length of word that is inside of the String Length block</div>
+</details>
 </details>
 
-#### Array
+<details class=formClass> 
+<summary> Array </summary>
 <details>
 	<summary>Array Count</summary>
 	<div>Returns the number of items inside of the array blocks that is given.</div>
@@ -78,8 +106,10 @@ Predefined formulas that can be used to add to the calculation
 	<summary>Item At Index</summary>
 	<div>Returns item from specified position from a specified list. The array block being the list and the array index block being the position </div>
 </details>
+</details>
 
-#### Math
+<details class=formClass> 
+<summary> Math </summary>
 
 <details>
 	<summary>Absolute Value</summary>
@@ -110,9 +140,10 @@ Predefined formulas that can be used to add to the calculation
 	<summary>Minimum</summary>
 	<div>Returns the lesser value from two values given a block "Value A" and "Value B".</div>
 </details>
+</details>
 
-#### Date/Time
-
+<details class=formClass> 
+<summary> Date/Time </summary>
 <details>
 	<summary>Age (Now)</summary>
 	<div>Returns age of person by giving a date value to calculate the age.</div>
@@ -177,10 +208,11 @@ Predefined formulas that can be used to add to the calculation
 	<summary>Get Formated Time</summary>
 	<div>Returns the time from a date/time field</div>
 </details>
+</details>
 
 
-
-#### Geolocation
+<details class=formClass> 
+<summary> Geolocation </summary>
 
 <details>
 	<summary>Address To Geolocation</summary>
@@ -240,4 +272,5 @@ Predefined formulas that can be used to add to the calculation
 <details>
 	<summary>Get Distance</summary>
 	<div>Returns the distance between the Geolocation Block A and Geolocation Block B.</div>
+</details>
 </details>

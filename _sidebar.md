@@ -1,11 +1,26 @@
-* [Home](/)
+<style>
+summary.header {
+	font-weight: bold;
+	margin-left: 15px;
+}
+</style>
 
-* Metadata
+* [__Home__](/)
+
+<details>
+<summary class=header>
+Metadata
+</summary>
+
 * * [Basic Info](/metadata/basic-info.md)
 
 * * [Tags](/metadata/tags.md)
 
-* Definition
+</details>
+<details>
+<summary class=header> 
+Definition
+</summary>
 
 * * [Subform](/definition/subform.md)
 
@@ -45,11 +60,23 @@
 
 * * [Color Picker](/definition/color-picker.md)
 
-* Layout
+</details>
 
-* Rules
+<details>
+<summary class=header> Layout </summary>
+</details>
 
-* Calculations
+<details>
+<summary class=header> Rules </summary>
+</details>
+
+<details>
+<summary class=header> Calculations </summary>
+
 * * [Help](/calculations/calc-help)
-* Documents
 
+</details>
+
+<details>
+<summary class=header> Documents </summary>
+</details>
