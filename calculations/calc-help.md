@@ -1,5 +1,9 @@
 # Calculations
 
+#### Clone Calculation
+The calculation is duplicated and aded to the calculation collapsable
+#### Delete Calculation
+Deletes the calculation currently in use.
 ### Argument
 A variable or section that will be used for the whole calculation.
 
@@ -57,7 +61,7 @@ Predefined formulas that can be used to add to the calculation
 #### Array
 <details>
 	<summary>Array Count</summary>
-	<div>Returns the number of items inside of the array that is given.</div>
+	<div>Returns the number of items inside of the array blocks that is given.</div>
 </details>
 
 <details>
@@ -121,7 +125,7 @@ Predefined formulas that can be used to add to the calculation
 
 <details>
 	<summary>Age in Years (Now)</summary>
-	<div>Returns age, in years, by given birthdate.</div>
+	<div>Returns age, in years, by given birthdate block.</div>
 </details>
 
 <details>
@@ -226,4 +230,14 @@ Predefined formulas that can be used to add to the calculation
 <details>
 	<summary>Get Latitude</summary>
 	<div>Returns the Latitude from the Geolocation field</div>
+</details>
+
+<details>
+	<summary>Get Longitude</summary>
+	<div>Returns the Longitude from the Geolocation field</div>
+</details>
+
+<details>
+	<summary>Get Distance</summary>
+	<div>Returns the distance between the Geolocation Block A and Geolocation Block B.</div>
 </details>
