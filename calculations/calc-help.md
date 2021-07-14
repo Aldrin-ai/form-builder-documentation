@@ -216,7 +216,7 @@ Predefined formulas that can be used to add to the calculation
 
 <details>
 	<summary>Address To Geolocation</summary>
-	<div><!-- TODO: Learn what adderss to Geolocation does--></div>
+	<div>Returns a calculated value specifically for Geolocation fields.</div>
 </details>
 
 <details>
