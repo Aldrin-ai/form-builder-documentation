@@ -21,25 +21,80 @@ details.formClass > details > div {
 details.formClass > details > summary {
 	font-size: 15px;
 }
+ul.fieldList > li {
+	margin-left :15px;
+}
+ul.fieldList > li > a{
+	color: lightgray;
+} 
 </style>
 
 # Calculations
 
 #### Clone Calculation
+
 The calculation is duplicated and aded to the calculation collapsable
+
 #### Delete Calculation
+
 Deletes the calculation currently in use.
+
 ### Argument
+
 A variable or section that will be used for the whole calculation.
 
 <details class=argClass>
 	<summary>Field Property</summary>
-	<div>Uses properties as values from the fields inside of the form.</div>
+	<div> Use the values of a field or the properties of a field to use as the value for the argument</div>
+	<details>
+		<summary class=header> 
+		Fields with links to properties.
+		</summary>
+<ul class=fieldList>
+<li><a href="/definition/subform.md"> Subform </a></li>
+
+<li><a href="/definition/single-text-field.md">Single Line Text field</a></li>
+
+<li><a href="/definition/multi-line-text-area.md"> Multi-Line Text Area</a></li>
+
+<li><a href="/definition/display-content.md"> Display Content </a></li>
+
+<li><a href="/definition/checkbox.md"> Checkbox </a></li>
+
+<li><a href="/definition/checkbox-list.md"> Checkbox List </a></li>
+
+<li><a href="/definition/radio.md"> Radio </a></li>
+
+<li><a href="/definition/select-dropdown.md"> Select Dropdown </a></li>
+
+<li><a href="/definition/multi-select-dropdown.md"> Multi-Select Dropdown </a></li>
+
+<li><a href="/definition/date.md"> Date </a></li>
+
+<li><a href="/definition/date-time.md"> Date/Time </a></li>
+
+<li><a href="/definition/file.md"> File </a></li>
+
+<li><a href="/definition/phone.md"> Phone </a></li>
+
+<li><a href="/definition/form-repeater.md"> Form Repeater </a></li>
+
+<li><a href="/definition/signature.md"> Signature </a></li>
+
+<li><a href="/definition/geolocation.md"> Geolocation </a></li>
+
+<li><a href="/definition/linked-clone.md"> Linked Clone </a></li>
+
+<li><a href="/definition/button.md"> Button </a></li>
+
+<li><a href="/definition/color-picker.md"> Color Picker </a></li>
+</details>
 </details class=argClass>
 
 <details class=argClass>
 	<summary>User Value</summary>
 	<div>A specific value that is set by the user creating the form. (If value is a number, the value will be recognized as a number)</div>
+
 </details>
 
 <details class=argClass>
@@ -60,14 +115,13 @@ A variable or section that will be used for the whole calculation.
 
 ### Argument Group
 
-A group of arguments and calculations that will be done first 
+A group of arguments and calculations that will be done first
 before the whole calculation will be done.
 
-
 ### Formula
+
 Predefined formulas that can be used to add to the calculation
 
- 
 <details class=formClass> 
 <summary> Conditional </summary>
 <details>
@@ -77,7 +131,7 @@ Predefined formulas that can be used to add to the calculation
 </details>
 
 <details class=formClass> 
-<summary> String </summary> 
+<summary> String </summary>
 
 <details>
 	<summary>String Length</summary>
@@ -209,7 +263,6 @@ Predefined formulas that can be used to add to the calculation
 	<div>Returns the time from a date/time field</div>
 </details>
 </details>
-
 
 <details class=formClass> 
 <summary> Geolocation </summary>
