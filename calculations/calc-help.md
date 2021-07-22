@@ -30,7 +30,7 @@ ul.fieldList > li > a{
 </style>
 
 # Calculations
-
+---
 #### Clone Calculation
 
 The calculation is duplicated and aded to the calculation collapsable
@@ -327,3 +327,5 @@ Predefined formulas that can be used to add to the calculation
 	<div>Returns the distance between the Geolocation Block A and Geolocation Block B.</div>
 </details>
 </details>
+
+---

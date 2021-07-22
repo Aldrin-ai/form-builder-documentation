@@ -64,10 +64,15 @@ Definition
 
 <details>
 <summary class=header> Layout </summary>
+
+
 </details>
 
 <details>
 <summary class=header> Rules </summary>
+
+* * [Rule Help](/rules/rule-help.md)
+
 </details>
 
 <details>
