@@ -4,6 +4,7 @@ details.colClass > summary {
 	font-weight: bold;
 	margin-left: 0px;
 	margin-bottom: 15px;
+	margin-top: 15px;
 }
 details.colClass > div {
 	font-size: 15px;
@@ -11,15 +12,34 @@ details.colClass > div {
 	margin-left:15px;
 }
 details.colClass > details {
-	margin-top: 5px;
-	margin-bottom: 5px;
+	margin-top: 10px;
+	margin-bottom: 10px;
 	margin-left: 15px;
+	font-size: 15px;
+}
+details.colClass > details > summary {
+	font-weight: bold;
+	font-size: 20px;
 }
 details.colClass > details > details {
 	margin-top: 5px;
 	margin-bottom: 5px;
 	margin-left: 15px;
 }
+details.colClass > details > details > summary {
+	font-weight: bold;
+	font-size: 15px;
+}
+details.colClass > details > details > div {
+	margin-left: 20px;
+}
+details.colClass > details > div {
+	margin-left: 15px;
+}
+details.colClass {
+	margin-top: 30px;
+}
+
 </style>
 
 # Rule Documentation
@@ -132,8 +152,9 @@ This field will determine how the property field or field value will be compared
 </details>
 
 <details>
-<summary> Contains</summar>
-<div> Compares two string values and will return true if the secondary string can be found in the primary string, otherwise false </div>
+<summary> Contains</summary>
+<div> Compares two string values and will return true if the secondary string 
+can be found in the primary string, otherwise false </div>
 </details>
 
 <details>
@@ -290,7 +311,8 @@ two dates are not the same dates, otherwise false.</div>
 
 <details class=colClass>
 <summary> Target Types </summary>
-<div> The different types of values that can be used to compare conditions
+<div> The different types of values that can be used to compare conditions </div>
+
 <details>
 <summary> Value </summary>
 <div>A value that can be set by the user</div>
