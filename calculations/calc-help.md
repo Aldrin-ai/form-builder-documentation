@@ -51,43 +51,43 @@ A variable or section that will be used for the whole calculation.
 		Fields with links to properties.
 		</summary>
 <ul class=fieldList>
-<li><a href="/definition/subform.md"> Subform </a></li>
+<li><a href="#/definition/subform.md"> Subform </a></li>
 
-<li><a href="/definition/single-text-field.md">Single Line Text field</a></li>
+<li><a href="#/definition/single-text-field.md">Single Line Text field</a></li>
 
-<li><a href="/definition/multi-line-text-area.md"> Multi-Line Text Area</a></li>
+<li><a href="#/definition/multi-line-text-area.md"> Multi-Line Text Area</a></li>
 
-<li><a href="/definition/display-content.md"> Display Content </a></li>
+<li><a href="#/definition/display-content.md"> Display Content </a></li>
 
-<li><a href="/definition/checkbox.md"> Checkbox </a></li>
+<li><a href="#/definition/checkbox.md"> Checkbox </a></li>
 
-<li><a href="/definition/checkbox-list.md"> Checkbox List </a></li>
+<li><a href="#/definition/checkbox-list.md"> Checkbox List </a></li>
 
-<li><a href="/definition/radio.md"> Radio </a></li>
+<li><a href="#/definition/radio.md"> Radio </a></li>
 
-<li><a href="/definition/select-dropdown.md"> Select Dropdown </a></li>
+<li><a href="#/definition/select-dropdown.md"> Select Dropdown </a></li>
 
-<li><a href="/definition/multi-select-dropdown.md"> Multi-Select Dropdown </a></li>
+<li><a href="#/definition/multi-select-dropdown.md"> Multi-Select Dropdown </a></li>
 
-<li><a href="/definition/date.md"> Date </a></li>
+<li><a href="#/definition/date.md"> Date </a></li>
 
-<li><a href="/definition/date-time.md"> Date/Time </a></li>
+<li><a href="#/definition/date-time.md"> Date/Time </a></li>
 
-<li><a href="/definition/file.md"> File </a></li>
+<li><a href="#/definition/file.md"> File </a></li>
 
-<li><a href="/definition/phone.md"> Phone </a></li>
+<li><a href="#/definition/phone.md"> Phone </a></li>
 
-<li><a href="/definition/form-repeater.md"> Form Repeater </a></li>
+<li><a href="#/definition/form-repeater.md"> Form Repeater </a></li>
 
-<li><a href="/definition/signature.md"> Signature </a></li>
+<li><a href="#/definition/signature.md"> Signature </a></li>
 
-<li><a href="/definition/geolocation.md"> Geolocation </a></li>
+<li><a href="#/definition/geolocation.md"> Geolocation </a></li>
 
-<li><a href="/definition/linked-clone.md"> Linked Clone </a></li>
+<li><a href="#/definition/linked-clone.md"> Linked Clone </a></li>
 
-<li><a href="/definition/button.md"> Button </a></li>
+<li><a href="#/definition/button.md"> Button </a></li>
 
-<li><a href="/definition/color-picker.md"> Color Picker </a></li>
+<li><a href="#/definition/color-picker.md"> Color Picker </a></li>
 </details>
 </details class=argClass>
 

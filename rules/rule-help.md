@@ -59,23 +59,39 @@ The rule will be enabled throughout the form.
 ### Always True
 The If blocks will always be true and will do any then sets or then dos.
 
+### Event-Based
+This condition will only be triggered by and event.
+
+<details class=colClass>
+<summary> Event Parameters </summary>
+
+### Name
+The name of the parameter 
+
+### Type
+The datatype that will be used for the parameter
+
+</details>
 <details class=colClass> 
 <summary> Blocks (If and Then)</summary>
 
 ### If Block
 The If block will go check the condition statements that is given, and if all of the condtions are true, then all of the "then sets" and "then dos" will execute.
 
+### Then Set Block
+The block will set a certain field property to a certain target type that can be chosen.This block is executed when the If conditions before it is true. 
+
+### Then Do Block
+The block will do an event action after the if block conditions are true. 
+
+### Add Set Value Action
+If the condition for the blocks are true, then this block will execute. This block will set a certain field's property.
+
 ### Add Condition Statement
 This is added to an if block. This will add another true or false condition to the if block.
 
 ### Add Condition
 Creates another If block, with all of the functions of the if block. 
-
-### Then Set Block
-The block will set a certain field property to a certain target type that can be chosen.This block is executed when the If conditions before it is true. 
-
-### Add Set Value Action
-If the condition for the blocks are true, then this block will execute. This block will set a certain field's property.
 
 ### AND
 If the primary condition and the secondary condition are true then the whole condition is true, otherwise false.
@@ -88,7 +104,38 @@ If either the primary condition or the secondary condition are true or both cond
 
 
 ### Form Element
-A field that is apart of the form being edited.
+A field that is apart of the form being edited. __NOTE:__ If field is inside a form repeater it will show a __*__ next to its name, the block will prompt the option for which instance will the if block get it's information from.
+
+<details class=colClass>
+<summary> Instance to target in repeater</summary>
+<div> The index or instance of the form repeater you want to extract the field from. </div>
+<details>
+
+<summary> Any Instance</summary>
+<div> The form element extracts from any one of the instances.</div>
+</details>
+
+<details>
+<summary> All Instance </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> First Instance </summary>
+<div> The form element is extracted from the first instance </div>
+</details>
+
+<details>
+<summary> Last Instance </summary>
+<div> The form element is extracted from the last instance </div>
+</details>
+
+<details>
+<summary> Instance at Index </summary>
+<div> The form element is etracted from specified index in the repeater </div>
+
+</details>
+</details>
 
 ### Property
 The properties from the field chosen in the form element. The properties will change depending on which field that is chosen. 
@@ -276,19 +323,19 @@ two dates are not the same dates, otherwise false.</div>
 <summary> Time Comparisons </summary>
 <details>
 <summary> Equals </summary>
-<div> Compares two dates and returns true if the 
+<div> Compares two times and returns true if the 
 two dates are the same dates, otherwise false.</div>
 </details>
 
 <details>
 <summary> Does Not Equal </summary>
-<div> Compares two dates and returns true if the 
+<div> Compares two times and returns true if the 
 two dates are not the same dates, otherwise false.</div>
 </details>
 
 <details>
 <summary> Is Before </summary>
-<div> Compares two dates and returns true if the primary date is before the second date, otherwise returns false. </div>
+<div> Compares two times and returns true if the primary date is before the second date, otherwise returns false. </div>
 </details>
 
 <details>
@@ -327,6 +374,59 @@ two dates are not the same dates, otherwise false.</div>
 <summary> Calculation </summary>
 <div> The value is created by a calculation </div>
 </details>
+
+<details>
+<summary> Event Parameters* </summary>
+<div> The value comes from a event parameter</div>
+</details>
+
+</details>
+
+
+<details class=colClass>
+<summary> Events </summary>
+<div>  </div>
+
+<details>
+<summary> Trigger Event Rules </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Create repeater instance </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Open compact repeater </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Close compact repeater </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Show alert dialog</summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Show confirm dialog </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Open URL </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> </summary>
+<div> </div>
+</details>
+
 </details>
 
 ---
