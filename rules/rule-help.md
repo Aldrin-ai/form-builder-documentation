@@ -423,7 +423,22 @@ two dates are not the same dates, otherwise false.</div>
 </details>
 
 <details>
-<summary> </summary>
+<summary> Send Email </summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Create linked form</summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Change form status</summary>
+<div> </div>
+</details>
+
+<details>
+<summary> Duplicate repeater instance </summary>
 <div> </div>
 </details>
 

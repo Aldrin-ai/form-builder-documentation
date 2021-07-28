@@ -70,4 +70,12 @@
 
 [Max Items](/properties/fieldModelDataOptions/fieldModelCheckboxList/max-items.md ':include')
 
+<details>
+<summary style="font-size: 25px; font-weight: bold;"> Event Types </summary>
+
+[Value Changed](/properties/events/value-changed.md ':include')
+
+[Value Cleared](/properties/events/value-cleared.md ':include')
+</details>
+
 ---

@@ -50,4 +50,14 @@
 
 [Input Mask](/properties/fieldModelInput/input-mask.md ':include')
 
+<details>
+<summary style="font-size: 25px; font-weight: bold;"> Event Types </summary>
+
+[Value Changed](/properties/events/value-changed.md ':include')
+
+[Value cleared](/properties/events/value-cleared.md ':include')
+
+
+</details>
+
 ---
