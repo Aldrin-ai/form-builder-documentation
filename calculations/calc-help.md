@@ -113,6 +113,30 @@ A variable or section that will be used for the whole calculation.
 	<div>Uses the value from another calculation</div>
 </details>
 
+<details>
+<summary>Calculated value </summary>
+
+<details>
+<summary>As is </summary>
+<div> The calculated value will be given as an object.</div>
+</details>
+
+<details>
+<summary> Formatted List </summary>
+<div> The calculated list of values can be formated in a specified way </div>
+</details>
+
+<details>
+<summary> Add values </summary>
+<div> All values from repeater will be added together </div>
+</details>
+
+<details>
+<summary> As data source </summary>
+<div> The values will go into a data source.</div>
+</details>
+</details>
+
 ### Argument Group
 
 A group of arguments and calculations that will be done first
