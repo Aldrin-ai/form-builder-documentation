@@ -37,4 +37,15 @@
 
 [Message](/properties/fieldModel/custom-error/message.md ':include')
 
+<details>
+<summary style="font-size: 25px; font-weight: bold;"> Event Types </summary>
+
+[Value Changed](/properties/events/value-changed.md ':include')
+
+[Value Cleared](/properties/events/value-cleared.md)
+
+[Value Completed](/properties/events/value-completed.md ':include')
+
+</details>
+
 ---

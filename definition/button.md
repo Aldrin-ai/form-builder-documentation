@@ -16,4 +16,10 @@
 
 [Word](properties/fieldModel/show-in-report.md ':include')
 
+<details>
+<summary style="font-size: 25px; font-weight: bold;"> Event Types </summary>
+
+[Button Press](properties/events/button-press.md ':include')
+</details>
+
 ---
