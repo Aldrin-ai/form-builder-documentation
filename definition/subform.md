@@ -10,9 +10,5 @@
 
 [Subform](/properties/fieldModel/fieldModelForm/form-version.md ':include')
 
-<details>
-<summary style="font-size: 25px; font-weight: bold;"> Event Types </summary>
-
-</details>
 
 ---

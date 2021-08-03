@@ -117,7 +117,7 @@ A field that is apart of the form being edited. __NOTE:__ If field is inside a f
 
 <details>
 <summary> All Instance </summary>
-<div> </div>
+<div> The form element extracts all of the instances </div>
 </details>
 
 <details>
@@ -389,57 +389,161 @@ two dates are not the same dates, otherwise false.</div>
 
 <details>
 <summary> Trigger Event Rules </summary>
-<div> </div>
+<div> Use another event rule to be used as an event</div>
+<details>
+<summary>Event Rule</summary>
+<div>The specific rule that will be triggered</div>
+</details>
 </details>
 
 <details>
 <summary> Create repeater instance </summary>
-<div> </div>
+<div> Create another repeater instance </div>
+<details>
+<summary>Repeater</summary>
+<div>A specific repeater inside of the form</div>
+</details>
+
 </details>
 
 <details>
 <summary> Open compact repeater </summary>
-<div> </div>
+<div> Open up a compact repeater as an event </div>
+<details>
+<summary>Repeater</summary>
+<div>A specific repeater instance inside of the form</div>
+<details>
+<summary>Index</summary>
+<div>The specified index in which stores the repeater wanted. </div>
+</details>
+
+</details>
+
 </details>
 
 <details>
 <summary> Close compact repeater </summary>
-<div> </div>
+<div> Close a specific compact repeater</div>
 </details>
 
 <details>
 <summary> Show alert dialog</summary>
-<div> </div>
+<div> Alerts the user on the rule they triggered</div>
+<details>
+<summary>Title</summary>
+<div>The title of the alert dialog</div>
+</details>
+<details>
+<summary>Message</summary>
+<div>The message that will under the title</div>
+</details>
+<details>
+<summary>Accept Event</summary>
+<div>The event that will trigger after the accepting</div>
+</details>
+
 </details>
 
 <details>
 <summary> Show confirm dialog </summary>
-<div> </div>
+<div> Gets the user's confirmation for them </div>
+<details>
+<summary>Title</summary>
+<div>The title of the alert dialog</div>
+</details>
+<details>
+<summary>Message</summary>
+<div>The message that will under the title</div>
+</details>
+<details>
+<summary>Accept Event</summary>
+<div>The event that will trigger after the accepting</div>
+</details>
+<details>
+<summary> Cancel Event Rule</summary>
+<div> The event that will trigger after canceling the confirmation box</div>
+</details>
 </details>
 
 <details>
 <summary> Open URL </summary>
-<div> </div>
+<div> Opens a URL</div>
+<details>
+<summary>URL</summary>
+<div>The URL that will opened</div>
+</details>
+
 </details>
 
 <details>
 <summary> Send Email </summary>
-<div> </div>
+<div> Sends and email as an event</div>
+<details>
+<summary>Recipients</summary>
+<div>The email addresses that this email will be sent to</div>
+</details>
+<details>
+<summary>Email Subject</summary>
+<div> The subject of the email</div>
+</details>
+<details>
+<summary>Email Message</summary>
+<div>The content of the email</div>
+</details>
+<details>
+<summary>Attachments</summary>
+<div>The files that will be attached to the email</div>
+</details>
+
 </details>
 
 <details>
 <summary> Create linked form</summary>
 <div> </div>
+<details>
+<summary></summary>
+<div></div>
+</details>
+
 </details>
 
 <details>
 <summary> Change form status</summary>
-<div> </div>
+<div> Change the status of the form </div>
+<details>
+<summary></summary>
+<div></div>
+</details>
+<details>
+<summary></summary>
+<div></div>
+</details>
+<details>
+<summary></summary>
+<div></div>
+</details>
+
 </details>
 
 <details>
 <summary> Duplicate repeater instance </summary>
-<div> </div>
+<div> Duplicates the current instance of the repeater and adds it to the repeater </div>
+</details>
+<details>
+<summary></summary>
+<div></div>
+</details>
+<details>
+<summary></summary>
+<div></div>
+</details>
+<details>
+<summary></summary>
+<div></div>
+</details>
+<details>
+<summary></summary>
+<div></div>
 </details>
 
 </details>
