@@ -1,4 +1,13 @@
 <style>
+details.listClass > summary {
+	font-weight: bold;
+}
+details.listClass > ul {
+
+}
+details.listClass > ul > li > a {
+	color: lightgray;
+}
 details.colClass > summary {
 	font-size: 25px;
 	font-weight: bold;
@@ -105,6 +114,49 @@ If either the primary condition or the secondary condition are true or both cond
 
 ### Form Element
 A field that is apart of the form being edited. __NOTE:__ If field is inside a form repeater it will show a __*__ next to its name, the block will prompt the option for which instance will the if block get it's information from.
+<details class=listClass>
+<summary> 
+Fields with links to properties.
+</summary>
+<ul class=>
+<li><a href="#/definition/subform.md"> Subform </a></li>
+
+<li><a href="#/definition/single-text-field.md">Single Line Text field</a></li>
+
+<li><a href="#/definition/multi-line-text-area.md"> Multi-Line Text Area</a></li>
+
+<li><a href="#/definition/display-content.md"> Display Content </a></li>
+
+<li><a href="#/definition/checkbox.md"> Checkbox </a></li>
+
+<li><a href="#/definition/checkbox-list.md"> Checkbox List </a></li>
+
+<li><a href="#/definition/radio.md"> Radio </a></li>
+
+<li><a href="#/definition/select-dropdown.md"> Select Dropdown </a></li>
+
+<li><a href="#/definition/multi-select-dropdown.md"> Multi-Select Dropdown </a></li>
+
+<li><a href="#/definition/date.md"> Date </a></li>
+
+<li><a href="#/definition/date-time.md"> Date/Time </a></li>
+
+<li><a href="#/definition/file.md"> File </a></li>
+
+<li><a href="#/definition/phone.md"> Phone </a></li>
+
+<li><a href="#/definition/form-repeater.md"> Form Repeater </a></li>
+
+<li><a href="#/definition/signature.md"> Signature </a></li>
+
+<li><a href="#/definition/geolocation.md"> Geolocation </a></li>
+
+<li><a href="#/definition/linked-clone.md"> Linked Clone </a></li>
+
+<li><a href="#/definition/button.md"> Button </a></li>
+
+<li><a href="#/definition/color-picker.md"> Color Picker </a></li>
+</details>
 
 <details class=colClass>
 <summary> Instance to target in repeater</summary>
@@ -501,8 +553,8 @@ two dates are not the same dates, otherwise false.</div>
 <summary> Create linked form</summary>
 <div> </div>
 <details>
-<summary></summary>
-<div></div>
+<summary>Linked Form Id</summary>
+<div>The id of the form that will be created.</div>
 </details>
 
 </details>
@@ -511,16 +563,16 @@ two dates are not the same dates, otherwise false.</div>
 <summary> Change form status</summary>
 <div> Change the status of the form </div>
 <details>
-<summary></summary>
-<div></div>
+<summary>Status ID</summary>
+<div>The ID of the status that will be changed</div>
 </details>
 <details>
-<summary></summary>
-<div></div>
+<summary>Prompt User</summary>
+<div>A prompt to let the user confirm action</div>
 </details>
 <details>
-<summary></summary>
-<div></div>
+<summary>Custom Dialog</summary>
+<div>A set of text for the prompt</div>
 </details>
 
 </details>
@@ -528,22 +580,19 @@ two dates are not the same dates, otherwise false.</div>
 <details>
 <summary> Duplicate repeater instance </summary>
 <div> Duplicates the current instance of the repeater and adds it to the repeater </div>
+<details>
+<summary>Repeater</summary>
+<div>The repeater in which the form will be duplicated from</div>
 </details>
 <details>
-<summary></summary>
-<div></div>
+<summary>Index</summary>
+<div>The index of the form in the list</div>
 </details>
 <details>
-<summary></summary>
-<div></div>
+<summary>Exclude Field ID</summary>
+<div>Exclude any fields that will not be duplicated in the repeater</div>
 </details>
-<details>
-<summary></summary>
-<div></div>
-</details>
-<details>
-<summary></summary>
-<div></div>
+
 </details>
 
 </details>

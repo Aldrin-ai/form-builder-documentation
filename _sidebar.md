@@ -4,7 +4,6 @@ summary.header {
 	margin-left: 15px;
 }
 </style>
-
 * [__Home__](/)
 
 <details>
@@ -65,6 +64,9 @@ Definition
 <details>
 <summary class=header> Layout </summary>
 
+* * [Layout](/layout/layout-help.md)
+
+* * [Element selector](/layout/element-selector.md) 
 
 </details>
 

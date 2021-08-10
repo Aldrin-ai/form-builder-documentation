@@ -113,7 +113,7 @@ A variable or section that will be used for the whole calculation.
 	<div>Uses the value from another calculation</div>
 </details>
 
-<details>
+<details class=formClass>
 <summary>Calculated value </summary>
 
 <details>
