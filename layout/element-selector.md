@@ -37,7 +37,7 @@ The height of the map in the geolocation
 ### Number of Columns
 The number of columns that will be shown in the field.
 ### Show Divider
-
+Shows a divider between columns of field.
 ### Columns
 How wide as a percent the column sizes are.
 ### Max List Height
@@ -46,4 +46,4 @@ The number of options that can be in one column, then the other options are plac
 ### Left Margin Width (px)
 The width of the left margin in pixels
 ### Right Margin Width (px)
-THe width of the right margin in pixels
+The width of the right margin in pixels
