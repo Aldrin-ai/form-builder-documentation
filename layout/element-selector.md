@@ -27,7 +27,7 @@ Puts an amount of margin space on the top.
 ### Style
 CSS styling for the form 
 ### Hide Border
-The border
+The border around field will be hidden
 ### Single Line
 Every element field is put on one line, if possible.
 ### Side by Side
