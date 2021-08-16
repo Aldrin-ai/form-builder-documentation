@@ -6,5 +6,21 @@
   "devDependencies": {
     "docsify-cli": "^4.4.3",
     "now": "^21.0.1"
+  },
+  "description": "> Proceed forward by using the side bar for specific property.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aldrin-ai/form-builder-documentation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aldrin-ai/form-builder-documentation/issues"
+  },
+  "homepage": "https://github.com/Aldrin-ai/form-builder-documentation#readme",
+  "dependencies": {
+    "docsify-darklight-theme": "^3.2.0"
   }
 }

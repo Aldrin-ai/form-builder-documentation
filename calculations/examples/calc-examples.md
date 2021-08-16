@@ -29,3 +29,8 @@
 ![Setting Calculation](photos/settingCalc.png)
 
 </details>
+
+<details>
+<summary> If Example </summary>
+[]
+</details>
