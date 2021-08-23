@@ -32,5 +32,12 @@
 
 <details>
 <summary> If Example </summary>
-[]
+
+![Calculation If Step](photos/1IF.png)
+
+![Select If](photos/SelectIf.PNG)
+
+![If Statment](photos/If_Statemenet1.png)
+
+![If Statment 2](photos/If_Statemenet2.png)
 </details>
