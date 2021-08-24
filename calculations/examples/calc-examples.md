@@ -33,9 +33,13 @@
 <details>
 <summary> If Example </summary>
 
+### Create a calculation then add If formula
+
 ![Calculation If Step](photos/1IF.png)
 
 ![Select If](photos/SelectIf.PNG)
+
+### Use a boolean value for the "IF:" block. If the "IF:" block is true the calculation will return what is in the "TRUE VALUE:" block. If the "IF:" block is false the calculation will return what is in the "FALSE VALUE" block.
 
 ![If Statment](photos/If_Statemenet1.png)
 
