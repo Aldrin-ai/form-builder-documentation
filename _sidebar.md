@@ -82,6 +82,8 @@ Definition
 
 * * [Help](/calculations/calc-help)
 
+* * [Examples](/calculations/examples/calc-examples)
+
 </details>
 
 <details>
