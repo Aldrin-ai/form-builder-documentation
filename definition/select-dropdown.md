@@ -18,6 +18,23 @@
 
 [auto clear value policy](/properties/fieldModel/clear-policy.md ':include')
 
+[Use data source](/properties/fieldModelDataOptions/use-data-source.md ':include')
+
+[Data Source](/properties/fieldModelDataOptions/data-remote-data-input.md ':include')
+
+[Data Source Value Column](/properties/fieldModelDataOptions/ds-value-column.md ':include')
+
+[Data Source Name Column](/properties/fieldModelDataOptions/ds-name-column.md ':include')
+
+[Data Source Groups Enabled](/properties/fieldModelDataOptions/ds-groups-enabled.md ':include')
+
+[Data Source Groups Column](/properties/fieldModelDataOptions/ds-groups-column.md ':include')
+
+[Data Source Filter Column](/properties/fieldModelDataOptions/ds-filter-column.md ':include')
+
+[Show Value Name](/properties/fieldModelDataOptions/show-value-name.md ':include')
+
+
 [Call to Action](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/call-to-action.md ':include')
 
 [Enable Search](/properties/fieldModelDataOptions/fieldModelSelect/fieldModelSelectDropdown/enable-search.md ':include')
